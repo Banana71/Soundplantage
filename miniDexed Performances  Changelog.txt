@@ -1,5 +1,12 @@
 Changelog miniDexed Performances
 
+----------------------------
+11.02.2024
+update:
+update Homepage https://soundplantage.com/
+new Performances: 
+125_Dark Bass, 126_The Creator
+----------------------------
 26.01.2024
 update:
 The modulation has been optimized for some performances
