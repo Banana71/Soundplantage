@@ -1,6 +1,11 @@
 Changelog miniDexed Performances
 
 ----------------------------
+24.02.2024
+NEWs!: New performances are bred in the "Greenhouse" (new Bank: 002_Greenhouse)
+079_Fantasy replaced with Fantasia (like D50) and moved to Greenhouse, ranamed to "006_no Imagination"
+For free storage space in a bank, perf. 123 and > moved to the Greenhouse
+----------------------------
 16.02.2024
 replaced wrong sound: 126_The Creator
 ----------------------------
