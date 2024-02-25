@@ -1,6 +1,13 @@
 Changelog miniDexed Performances
 
 ----------------------------
+25.02.2024
+update: some new Seeds in the Greenhouse, inspired by a Roland D50, among others.
+005_Afterthough (M.Jackson - Man in the Mirror, Intro)
+009_Love Piano
+011_Synth.Elec.MW
+012_Houdini (Dua Lipa)
+----------------------------
 24.02.2024
 NEWs!: New performances are bred in the "Greenhouse" (new Bank: 002_Greenhouse)
 079_Fantasy replaced with Fantasia (like D50) and moved to Greenhouse, ranamed to "006_no Imagination"
