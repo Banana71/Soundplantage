@@ -1,9 +1,10 @@
 Changelog miniDexed Performances
 
 ----------------------------
-27.02.2024
-Bass, i need Bass
-New Performance: 013 Ripe Bass-MW , use ModWheel for more Bratzzz...
+27.02.2024 
+New Performance: Bass, i need Bass
+013_Ripe Bass-MW , use ModWheel for more Bratzzz...
+014_Smack Noise, 015_ShortSqr., 016_ShortSqr. del.
 ----------------------------
 25.02.2024
 update: some new Seeds in the Greenhouse, inspired by a Roland D50, among others.
