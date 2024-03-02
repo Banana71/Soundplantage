@@ -12,4 +12,4 @@ The MIDI channel is set to "1".
 
 :musical_note: Soundcloud: https://on.soundcloud.com/HkAbM
 
-:movie_camera: YouTube: https://www.youtube.com/@peterberghoff/videos
+:movie_camera: YouTube: https://www.youtube.com/@peterberghoff/featured
