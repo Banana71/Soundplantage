@@ -1,6 +1,9 @@
 Changelog miniDexed Performances
 
 ----------------------------
+02.03.2024
+The sound - fill up synth - was created during the production of Analogic puls
+----------------------------
 27.02.2024 
 New Performance: Bass, i need Bass
 013_Ripe Bass-MW , use ModWheel for more Bratzzz...
