@@ -2,7 +2,7 @@ Changelog miniDexed Performances
 
 ----------------------------
 04.03.2024
-update: WTF
+Greenhouse update:
 018_Revelations - For information about risks and side effects, read the package leaflet and ask your doctor or pharmacy
 019_Beast - Roaring something
 020_TR-816 dyn. - dynamic playing drum kit with gated snare
