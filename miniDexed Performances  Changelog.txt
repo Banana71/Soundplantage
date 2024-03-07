@@ -1,6 +1,11 @@
 Changelog miniDexed Performances
 
 ----------------------------
+date:
+Greenhouse update:
+020_TR816 dyn. - Improved toms, resonance and filters on TG2 - TG 4 Snare + Hihats
+023_Mystic Ping
+----------------------------
 05.03.2024
 Greenhouse update:
 021_Flyby - Genre f(x)  "Atmospheric rise up sound"
