@@ -1,10 +1,13 @@
 Changelog miniDexed Performances
 
+
+
 ----------------------------
-date:
+11.03.2024
 Greenhouse update:
 020_TR816 dyn. - Improved toms, resonance and filters on TG2 - TG 4 Snare + Hihats
 023_Mystic Ping
+024_PhaserString - Digital Living String Machine - Test
 ----------------------------
 05.03.2024
 Greenhouse update:
