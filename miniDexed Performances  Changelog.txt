@@ -1,7 +1,9 @@
 Changelog miniDexed Performances
 
-
-
+----------------------------
+14.03.2024
+Grennhouse update: Stringmachine
+025_StringtheoryMW, 026_StringEnsemble, 027_Wall of String
 ----------------------------
 11.03.2024
 Greenhouse update:
