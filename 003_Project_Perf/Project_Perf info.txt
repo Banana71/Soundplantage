@@ -1,0 +1,2 @@
+In this folder you will find performances that I have adapted for some projects.
+MIDI channels, envelopes or the volume ratios have been partially changed.
