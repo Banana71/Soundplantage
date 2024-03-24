@@ -1,6 +1,9 @@
 Changelog miniDexed Performances
 
 ----------------------------
+24.03.2024
+032_Apollo Mission (SpaceChoir)
+----------------------------
 22.03.2024
 Greenhous update:
 028 Not my Monkeys, 029 Drowning, 030 Oak-Bass, 031 Slow Ensemble
