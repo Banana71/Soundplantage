@@ -1,6 +1,13 @@
 Changelog miniDexed Performances
 
 ----------------------------
+10.04.2024
+Greenhouse update:
+035_Vintage Piano, Resonance Pop Piano
+037_Lost in Space, Choir
+038_So'n Bass, Ripe Bass with more Bass
+039_Paradiso I61, D50 I61 Staccato Heaven
+----------------------------
 01.04.2024
 Greenhouse update:
 033_Broken Leslie (Who hung a wind chime in the Leslie?)
