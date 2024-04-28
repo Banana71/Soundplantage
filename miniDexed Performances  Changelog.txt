@@ -1,5 +1,12 @@
 Changelog miniDexed Performances
 ----------------------------
+28.04.2024
+028_Organ, Reverb change
+029_House Organ, complete new
+Greenhouse:
+047_Grimaldi - UB-Xa - Fat Synth
+048_T+Rex - UB-Xa Comparison - Perc. Synth, Vel-FilterFrq-
+----------------------------
 20.04.2024
 Greenhouse update
 046_dyn.Rock Piano, pianopianissimo - fortissimo (ppp - ff)
