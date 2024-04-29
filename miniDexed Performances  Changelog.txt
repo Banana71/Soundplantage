@@ -1,11 +1,21 @@
 Changelog miniDexed Performances
 ----------------------------
+29.4.2024
+NEW Bank !, Laboratory
+001_OctaFat - INIT miniD, 8 TGs on MIDIChannel 1, PAN hard left or right, detuned, Algorithm=2, P Mod Sens=1, OSC Sync=OFF, Feedback=7, OP2 Output Level=77, TX: Compress=ON, Reverb ON, Size=32,High Damp=25, Low damp=25, Low pass=75, Diffusion=63, Level=36
+002_OctaThin - INIT miniD, like OctaFat but only slightly out of tune
+003_DoubleLayer - INIT miniD, like OctaFat but only TG 1 & TG2, PAN left and right, detuned
+004_Single - INIT miniD, like OctaFat but only TG 1, PAN in the middle, in tune, OSC Sync=ON
+005_pure DX7 - INIT miniD, like 004_Single but without Reverb, Reverb Level=0
+006_Drum Map - Drum map template, like TR816
+Greenhouse: 049_SEGA-Organ, Modified SEGA Patch "Synth_30", OctaLayer
+----------------------------
 28.04.2024
 028_Organ, Reverb change
 029_House Organ, complete new
 Greenhouse:
 047_Grimaldi - UB-Xa - Fat Synth
-048_T+Rex - UB-Xa Comparison - Perc. Synth, Vel-FilterFrq-
+048_T+Rex - UB-Xa Comparison - Perc. Synth, Vel-FilterFrq
 ----------------------------
 20.04.2024
 Greenhouse update
