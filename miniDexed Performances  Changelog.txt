@@ -1,5 +1,12 @@
 Changelog miniDexed Performances
 ----------------------------
+11.05.2024
+Greenhouse update:
+050_Mighty mDX
+051_R2 Psy-Party
+052_Plasma Speaker
+053_CosMOS
+----------------------------
 29.4.2024
 NEW Bank !, Laboratory
 001_OctaFat - INIT miniD, 8 TGs on MIDIChannel 1, PAN hard left or right, detuned, Algorithm=2, P Mod Sens=1, OSC Sync=OFF, Feedback=7, OP2 Output Level=77, TX: Compress=ON, Reverb ON, Size=32,High Damp=25, Low damp=25, Low pass=75, Diffusion=63, Level=36
