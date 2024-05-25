@@ -1,5 +1,14 @@
 Changelog miniDexed Performances
 ----------------------------
+25.05.2024
+Grennhouse update:
+054_Aggresive LEAD
+055_Flutter, Pad-Sound
+056_Metallizer, Lead
+057_Gothic Tower, Church Bell
+058_CP-70 String, Layer from 010_Phil's CP-70 and synthestic Strings
+059_Seventy-Three, the World best E. Piano ;-)
+----------------------------
 11.05.2024
 Greenhouse update:
 050_Mighty mDX
