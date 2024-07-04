@@ -1,5 +1,15 @@
 Changelog miniDexed Performances
 ----------------------------
+04.07.2024
+Greenhouse update:
+060_Life DX-Kit 
+061_S-Wave Bass, T-Rex Bass Sound
+062_Hard FM, E. Piano Sound
+063_LowBlow, FX Sound, Thunder, Explosion, Deep
+064_73s Bells, E. Piano
+065_Fallin' Intro, FX Riser
+066_Dry Bass 
+----------------------------
 25.05.2024
 Grennhouse update:
 054_Aggresive LEAD
