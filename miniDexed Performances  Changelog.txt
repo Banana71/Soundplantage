@@ -1,5 +1,15 @@
 Changelog miniDexed Performances
 ----------------------------
+11.08.2024
+Greenhouse update:
+067_UltimateBass, mix of Kick, DryBass and S-Wave Bass
+068_Todeskuss, FX Sound
+069_FM-Emotions, Dynamik dark FM Sound
+070_Easy Keys, hmm
+071_Shine, Sinewave with some harmonics
+072_Dry Robert, Maybe like a moog
+073_Robert's proud, Punchy Synthbass
+----------------------------
 04.07.2024
 Greenhouse update:
 060_Life DX-Kit 
