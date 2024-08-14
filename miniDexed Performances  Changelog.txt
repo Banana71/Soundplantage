@@ -1,5 +1,11 @@
 Changelog miniDexed Performances
 ----------------------------
+14.08.2024
+Volume correction
+Greenhouse update:
+074_Deep Wow, Funky Bass (like M.J. Thriller)
+075_Soft Sub, Bass
+----------------------------
 11.08.2024
 Greenhouse update:
 067_UltimateBass, mix of Kick, DryBass and S-Wave Bass
