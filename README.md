@@ -1,8 +1,7 @@
 # Soundplantage
 Performances for the miniDexed 
 
-The Yamaha DX7 is certainly not the best sounding synthesizer, but there is hardly another electronic instrument that can be played so expressively. 
-Thanks to its versatility, it can produce sounds for any genre of music. This is especially true for the miniDexed with its 8 tone generators.
+The Yamaha DX7 is one of the most expressive electronic musical instruments I know. Thanks to its versatility, it can produce sounds for every musical genre. This is especially true of the miniDexed with its 8 tone generators.
 
 I would be grateful for suggestions, criticism and ideas of all kinds in the Discussions.
 
