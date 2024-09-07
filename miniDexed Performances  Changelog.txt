@@ -174,3 +174,5 @@ miniDexed Performances by Banana71
 
 https://www.soundplantage.com
 https://www.youtube.com/@peterberghoff
+
+Thanks to users whose patches I used: sexylizardbrain (reddit.com, Patch 001:091 Magical Harp)
