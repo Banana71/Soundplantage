@@ -1,5 +1,12 @@
 Changelog miniDexed Performances
 ----------------------------
+14.09.2024
+079_Zeus - Thunder and Strom
+080_MarKaka - a further development of Banana Strings
+081_Hollum - a Special Split Sound for me :-)
+082_Nordkapp - Cold sounding Key
+083_MS-1 RD Bass - overtone-rich bass Sound, mono with portamento 
+----------------------------
 25.08.2024
 076_'82 Brass, it's okay for TOTO - Africa
 077_Venus Trap, Synth Bass
