@@ -1,5 +1,16 @@
 Changelog miniDexed Performances
 ----------------------------
+28.08.2024
+084_THE Rider - Synth Cutoff Swell
+085_KOKUBO '71 - Synth Version of BananaStrings
+086_Glockenspiel - not only for the next Advent season
+087_Tyrell Corp. - in the influence of Yamaha's largest flagship CS-80
+088_pIvghor - FX WarShip of Alien talking
+089_Grandill - a type of woodwind instrument
+090_Mellow - Piano
+091_Piano + Bell - as the name suggests
+
+----------------------------
 14.09.2024
 079_Zeus - Thunder and Strom
 080_MarKaka - a further development of Banana Strings
@@ -142,7 +153,7 @@ New Performance: Bass, i need Bass
 25.02.2024
 update: some new Seeds in the Greenhouse, inspired by a Roland D50, among others.
 005_Afterthough (M.Jackson - Man in the Mirror, Intro)
-009_Love Piano
+009_Love Piano - a variation of E.Piano 2 (ROM1B Patch 3)
 011_Synth.Elec.MW
 012_Houdini (Dua Lipa)
 ----------------------------
