@@ -7,7 +7,7 @@ Changelog miniDexed Performances
 087_Tyrell Corp. - in the influence of Yamaha's largest flagship CS-80
 088_pIvghor - FX WarShip of Alien talking
 089_Grandill - a type of woodwind instrument
-090_Mellow - Piano
+090_Mellow - Piano, mellow and compressed
 091_Piano + Bell - as the name suggests
 
 ----------------------------
