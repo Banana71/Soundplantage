@@ -1,6 +1,9 @@
 Changelog miniDexed Performances
 ----------------------------
-28.08.2024
+xx.10.2024
+092_Porta Strings - Fat Synth Sound with Portamento and Aftertouch
+----------------------------
+28.09.2024
 084_THE Rider - Synth Cutoff Swell
 085_KOKUBO '71 - Synth Version of BananaStrings
 086_Glockenspiel - not only for the next Advent season
