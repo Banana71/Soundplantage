@@ -1,6 +1,7 @@
 Changelog miniDexed Performances
 ----------------------------
 06.10.2024
+033_Broken Leslie - the "broken" effect can now be adjusted via the ModWheel, Aftertouch for detune
 092_Porta Strings - Fat Synth Sound with Portamento and Aftertouch
 093_Rail Crossing - Synth Sound
 094_Mousetrap - ChezyOrgan Sound
