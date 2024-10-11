@@ -1,6 +1,10 @@
 Changelog miniDexed Performances
 ----------------------------
+11.010.2024
+002:096_FM answer - 8 layer E. Piano (Question from Reddit user)
+----------------------------
 06.10.2024
+Greenhouse update:
 033_Broken Leslie - the "broken" effect can now be adjusted via the ModWheel, Aftertouch for detune
 092_Porta Strings - Fat Synth Sound with Portamento and Aftertouch
 093_Rail Crossing - Synth Sound
