@@ -1,6 +1,11 @@
 Changelog miniDexed Performances
 ----------------------------
-11.010.2024
+19.10.2024
+097_Ghost Piano - Piano with Rever and Hammernoise
+098_Pipe Oran VS - Inspired by the Pro VS mini 
+099_Amiga Fire - FX Sound 
+----------------------------
+11.10.2024
 002:096_FM answer - 8 layer E. Piano (Question from Reddit user)
 ----------------------------
 06.10.2024
