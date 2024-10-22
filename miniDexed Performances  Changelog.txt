@@ -1,5 +1,8 @@
 Changelog miniDexed Performances
 ----------------------------
+22.10.2024
+100_ - Sextet - - Streichersextett - fn=n*(1/(2L))√(T/μ)
+----------------------------
 19.10.2024
 097_Ghost Piano - Piano with Rever and Hammernoise
 098_Pipe Oran VS - Inspired by the Pro VS mini 
