@@ -1,5 +1,14 @@
 Changelog miniDexed Performances
 ----------------------------
+31.10.2024
+101_Stacc. Sextet - like 100_Sextet with faster attack
+102_Wave Bass - 80s Synth Bass
+103_Trance - very Basic
+104_HarmoNix - 
+105_TraumA0 - pulsating synthesizer Sound, 154.38 bpm
+106_Theseus - Poseidon calls for his son
+107_Whistle - Whistle synth Sound
+----------------------------
 22.10.2024
 100_ - Sextet - - Streichersextett - fn=n*(1/(2L))√(T/μ)
 ----------------------------
