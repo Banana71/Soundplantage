@@ -1,5 +1,9 @@
 Changelog miniDexed Performances
 ----------------------------
+03.11.2024
+001:061_Mama - update
+002:108_Fiery Voices  - the renamed copie from 001:061_Mama Performance  
+----------------------------
 31.10.2024
 101_Stacc. Sextet - like 100_Sextet with faster attack
 102_Wave Bass - 80s Synth Bass
