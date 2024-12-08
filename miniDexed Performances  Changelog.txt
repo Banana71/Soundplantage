@@ -1,5 +1,8 @@
 Changelog miniDexed Performances
 ----------------------------
+002:110_Hatters-Mind - atmospheric E-Piano sound with slight noise
+002:111_
+----------------------------
 17.11.2024
 002:059_Seventy-Three OP6 Lvl. vo 82 auf 77, L2 von 91 auf 92, R2 von 99 auf 67
 002:109_Romantic Pipes - Organ with some Air
