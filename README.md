@@ -15,6 +15,3 @@ I would be grateful for suggestions, criticism and ideas of all kinds in the Dis
 :musical_note: Soundcloud: https://on.soundcloud.com/HkAbM
 
 :movie_camera: YouTube: https://www.youtube.com/@peterberghoff/featured
-
-
-[Changelog](miniDexed Performances  Changelog.txt)
