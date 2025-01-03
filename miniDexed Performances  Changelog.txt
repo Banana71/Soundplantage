@@ -1,5 +1,11 @@
 Changelog miniDexed Performances
 ----------------------------
+03.01.2025
+002:114_Classic EP
+002:115_Soul-Kit - Drumkit with Stereo HiHats & Toms
+002:116_Soul-Bass - Simple Synth Bass
+002:117_Heuler - Rise Effect
+----------------------------
 08.12.2024
 002:110_Hatters-Mind - atmospheric E-Piano sound with slight noise
 002:111_Pharao's Call - mystical pad sound
