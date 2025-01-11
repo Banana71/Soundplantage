@@ -1,5 +1,8 @@
 Changelog miniDexed Performances
 ----------------------------
+11.01.2025
+remove unnecessary space from the beginning of the Stacc. Sextet performance name
+----------------------------
 03.01.2025
 002:114_Classic EP
 002:115_Soul-Kit - Drumkit with Stereo HiHats & Toms
