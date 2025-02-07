@@ -1,7 +1,7 @@
 # Soundplantage
 Performances for the miniDexed 
 
-The Yamaha DX7 is one of the most expressive electronic musical instruments I know. Thanks to its versatility, it can produce sounds for every musical genre. This is especially true of the miniDexed with its 8 tone generators.
+The Yamaha DX7 is one of the most expressive electronic musical instruments I know. Thanks to its versatility, it can produce sounds for every musical genre. This is especially true of the miniDexed with its 8 tone generators. The performances I’ve created do use multiple TGs, but apart from the drum kits, they’re single sounds and receive MIDI notes on channel 1.
 
 I would be grateful for suggestions, criticism and ideas of all kinds in the Discussions.
 
