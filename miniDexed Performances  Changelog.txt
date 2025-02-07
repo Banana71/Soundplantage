@@ -1,5 +1,12 @@
 Changelog miniDexed Performances
 ----------------------------
+07.02.2025
+002:118_SoftTube Piano - Sinusform E. Piano with Dynamik Overdrive, Atmospheric
+002:119_Gospel Piano - dynamik bright Piano , Gsus4 you
+002_120_Analog Breath - Analog Synth Cutoff swell
+002:121_ElectricFriend - analog Synth
+002_122_78er-Kit - very Retro DrumKit 
+----------------------------
 11.01.2025
 remove unnecessary space from the beginning of the Stacc. Sextet performance name
 ----------------------------
