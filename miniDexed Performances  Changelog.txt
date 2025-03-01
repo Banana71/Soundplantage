@@ -1,5 +1,30 @@
 Changelog miniDexed Performances
 ----------------------------
+01.03.2025
+Major update 20251
+Bank 128_Laboratory
+001_INIT-Multitim.
+002_MultiTimbral
+003_pure DX7
+004_Single
+005_DoubleLayer
+006_Quadro
+007_OctaThin
+008_OctaFat
+009_1TG Perf.
+010_Drum Map
+Bank 003_Oasis
+001_Performance.ini - Fun
+002_Luzifer
+003_digital Breath
+004_RiseUp
+005_HighPass
+006_RingToneAgro4
+007_Bass
+008_Ascension
+009_PAD
+010_Sharp Piano
+----------------------------
 07.02.2025
 002:118_SoftTube Piano - Sinusform E. Piano with Dynamik Overdrive, Atmospheric
 002:119_Gospel Piano - dynamik bright Piano , Gsus4 you
