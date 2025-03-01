@@ -2,7 +2,7 @@ Changelog miniDexed Performances
 ----------------------------
 01.03.2025
 Major update 20251
-Bank 128_Laboratory
+Bank 128_Laboratory - rearranged
 001_INIT-Multitim.
 002_MultiTimbral
 003_pure DX7
@@ -13,7 +13,7 @@ Bank 128_Laboratory
 008_OctaFat
 009_1TG Perf.
 010_Drum Map
-Bank 003_Oasis
+Bank 003_Oasis - a new Bank is sprouting 
 001_Performance.ini - Fun
 002_Luzifer
 003_digital Breath
