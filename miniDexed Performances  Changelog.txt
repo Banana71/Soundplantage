@@ -1,5 +1,11 @@
 Changelog miniDexed Performances
 ----------------------------
+29.03.2025
+Rename 002:034 42th anniv.Pad to 42nd anniv.Pad
+Bank 003_Oasis update:
+011_+Orion Nebula+ - Fanatsy Organ Sound (inspired by SY99)
+012_+ClaviStuff+ - Pimed ClaviStuff from DX7 Mkii
+----------------------------
 01.03.2025
 Major update 20251
 Bank 128_Laboratory - rearranged
