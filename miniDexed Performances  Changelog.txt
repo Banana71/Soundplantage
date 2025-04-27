@@ -1,5 +1,10 @@
 Changelog miniDexed Performances
 ----------------------------
+27.04.2025
+miniDexed - Quick Start Guide.pdf
+Oasis update
+013_+Crystal+ - inspired by SY-99
+----------------------------
 29.03.2025
 Rename 002:034 42th anniv.Pad to 42nd anniv.Pad
 Bank 003_Oasis update:
