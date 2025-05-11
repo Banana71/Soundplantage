@@ -1,5 +1,15 @@
 Changelog miniDexed Performances
 ----------------------------
+11.05.2025
+Oasis update Voyager-Edition
+014_Tuvoc-504
+015_Kathryn
+016_Kes-Bell
+017_Annika 7
+018_Collective LD
+019_Collective SD
+
+----------------------------
 29.04.2025
 The organization of the Performance Banks has been changed. Each bank is now in its own folder.
 The default bank, which was directly in the performance directory, is now in the 001_Seed folder.
