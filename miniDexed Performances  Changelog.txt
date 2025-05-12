@@ -1,6 +1,7 @@
 Changelog miniDexed Performances
 ----------------------------
 12.05.2025
+Voyager 1 update
 020_Neelix - Pad Sound
 021_Tom Paris - Out of Control Pad
 Update Performance List PDF - short Guide on Page 4
