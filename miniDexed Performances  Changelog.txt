@@ -1,5 +1,9 @@
 Changelog miniDexed Performances
 ----------------------------
+12.05.2025
+020_Neelix - Pad Sound
+Update Performance List PDF - short Guide on Page 4
+----------------------------
 11.05.2025
 Oasis update Voyager-Edition
 014_Tuvoc-504
