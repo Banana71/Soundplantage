@@ -1,5 +1,13 @@
 Changelog miniDexed Performances
 ----------------------------
+13.07.2025
+022_Jefferies Tube Synth 
+023_Delta Quadrant Multitalent
+024_Planet X - Top Player Synthsound
+025_The Doctor Synth 
+026_Sao Francisco E. Piano 
+027_Nexus 7 Synth 
+----------------------------
 12.05.2025
 Voyager 1 update
 020_Neelix - Pad Sound
