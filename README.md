@@ -7,6 +7,7 @@ This versatility is even more pronounced with the **miniDexed**, which features 
 
 Feel free to explore, adapt, and modify these performances to suit your own musical needs.
 
+Instructions for saving and copying performances can be found in the [Wiki](https://github.com/Banana71/Soundplantage/wiki).
 
 ![minidexed rd300](https://github.com/Banana71/Soundplantage/assets/104296205/6669503b-26a3-4526-898a-5ee0bba1ece7)
 ### Feedback Welcome
