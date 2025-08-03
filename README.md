@@ -15,3 +15,6 @@ I would be grateful for suggestions, criticism and ideas of all kinds in the Dis
 :musical_note: Soundcloud: https://on.soundcloud.com/HkAbM
 
 :movie_camera: YouTube: https://www.youtube.com/@peterberghoff/featured
+
+![BananenMark I](https://github.com/user-attachments/assets/02f85e61-cadf-432d-acb3-ce7b5e2914a1)
+
