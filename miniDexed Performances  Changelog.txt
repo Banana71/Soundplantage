@@ -1,5 +1,8 @@
 Changelog miniDexed Performances
 ----------------------------
+22.02.2026
+updates and repair Performances minidexed-format
+----------------------------
 20.07.2025
 028_BananenMark I - Rhodes Piano, My pride and joy, I spent ages searching for the right frequencies
 ----------------------------
