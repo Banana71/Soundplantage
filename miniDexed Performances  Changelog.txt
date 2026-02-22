@@ -1,7 +1,11 @@
 Changelog miniDexed Performances
 ----------------------------
 22.02.2026
-updates and repair Performances minidexed-format
+Oasis updates and repair Performances minidexed-format
+029_DigitaLayer - 2 Synth Sounds
+030_Warm Rhodes - E. Piano 
+031_Yamaha CP
+032_Deep Rise - digital Synth
 ----------------------------
 20.07.2025
 028_BananenMark I - Rhodes Piano, My pride and joy, I spent ages searching for the right frequencies
