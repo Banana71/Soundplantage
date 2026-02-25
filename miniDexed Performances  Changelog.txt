@@ -1,5 +1,8 @@
 Changelog miniDexed Performances
 ----------------------------
+25.02.2026
+All performances were cleaned up, and the parameters Voice and Bank were assigned to the patches of the "Soundplantage FM Collection".
+----------------------------
 22.02.2026
 Oasis updates and repair Performances minidexed-format
 029_DigitaLayer - 2 Synth Sounds
