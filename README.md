@@ -22,6 +22,4 @@ I'm always open to **suggestions**, **criticism**, and **creative ideas** — fe
 
 :movie_camera: YouTube: https://www.youtube.com/@peterberghoff/featured
 
-![BananenMark I](https://github.com/user-attachments/assets/02f85e61-cadf-432d-acb3-ce7b5e2914a1)
-
 Peter
