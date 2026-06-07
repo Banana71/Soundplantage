@@ -23,3 +23,15 @@ I'm always open to **suggestions**, **criticism**, and **creative ideas** — fe
 :movie_camera: YouTube: https://www.youtube.com/@peterberghoff/featured
 
 Peter
+
+
+## Licence
+
+All sound content (`.ini` performances, `.syx` voice banks) in this repository
+is licensed under the **Creative Commons Attribution‑NonCommercial 4.0
+International License (CC BY‑NC 4.0)**. See [LICENSE-CONTENT](LICENSE-CONTENT)
+for the full text.
+
+You are free to share and adapt the material for non‑commercial purposes,
+provided you give appropriate credit. Commercial use or selling of these
+patches is not permitted.
