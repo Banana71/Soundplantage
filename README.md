@@ -27,7 +27,7 @@ Peter
 
 ## DreamDexed Performance License (DPL) 1.0
 
-Copyright (c) [Year] [Your Name / Soundplantage]
+Copyright (c) [2026] [Peter Berghoff / Soundplantage]
 
 ### 1. Permitted Use of Performances
 The performance files (`.ini`) in this repository may be used, copied, modified,
