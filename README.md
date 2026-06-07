@@ -27,7 +27,7 @@ Peter
 
 ## DreamDexed Performance License (DPL) 1.0
 
-Copyright (c) [2026] [Peter Berghoff / Soundplantage]
+Copyright (c) [Year] [Your Name / Soundplantage]
 
 ### 1. Permitted Use of Performances
 The performance files (`.ini`) in this repository may be used, copied, modified,
@@ -36,14 +36,13 @@ the following conditions are met.
 
 ### 2. Protection of Voice Patches
 The DX7 voice patches (VoiceData / Sysex data) embedded within the
-performances are protected as individual creative works. **You may not**
-extract, isolate, or redistribute these patches separately – whether for free
-or for sale – as a sound library, preset collection, voice bank, sample pack,
-or in any comparable form.
+performances are protected as individual creative works. You may extract,
+use, and modify these patches for private, educational, or non‑commercial
+purposes.
 
-This restriction does **not** apply to the use of the patches as an integral
-part of a specific miniDexed/DreamDexed performance or within a personal,
-non‑commercial music production.
+However, you may **not** distribute or sell the isolated patches – whether
+in their original form or modified – as a sound library, preset collection,
+voice bank, sample pack, or in any comparable commercial product.
 
 ### 3. Distribution of Modified Versions
 If you distribute modified versions of the performances, you must retain this
