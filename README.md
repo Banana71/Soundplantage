@@ -28,7 +28,7 @@ Peter
 ## Licence
 
 All performances and voice patches in this repository are provided under the
-[DreamDexed Performance License (DPL)](LICENSE.md).
+[Soundplantage Performance License (DPL)](LICENSE.md).
 
 In short:
 - The **performances** are free for any use, including commercial projects.
