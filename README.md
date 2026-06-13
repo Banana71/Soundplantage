@@ -23,3 +23,13 @@ I'm always open to **suggestions**, **criticism**, and **creative ideas** — fe
 :movie_camera: YouTube: https://www.youtube.com/@peterberghoff/featured
 
 Peter
+
+
+## Licence
+
+All performances and voice patches in this repository are provided under the
+[Soundplantage Performance License (DPL)](LICENSE.md).
+
+In short:
+- The **performances** are free for any use, including commercial projects.
+- **Extracting and selling the individual DX7 voice patches** is not permitted.
